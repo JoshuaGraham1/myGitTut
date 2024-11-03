@@ -6,3 +6,7 @@ x = 5
 y = 10
 print()
 print(x + y)
+
+# New changes
+
+print("Hello world")
